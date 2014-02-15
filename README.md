@@ -1,4 +1,4 @@
 data-metadata
 =============
 
-ADIwg data metadata schemas, examples, and documentation
+ADIwg schemas, examples, and documentation for **data** metadata
